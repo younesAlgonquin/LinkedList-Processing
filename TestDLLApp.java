@@ -1,20 +1,10 @@
 /**
  * <br>Processing data using Doubly Linked List CST8130 Data Structures, Computer
- * <br>Engineering Technology-Computer Science: Level 3
- * 
- * <br>Professor: James Mwangi PhD
- * 
- * 
- * <br>         Student Name: Younes Boutaleb
- * <br>			Student ID: 041019068
- * <br>	
- * <br>	
+ * <br>Engineering Technology-Computer Science: Level 3	
  * <br>CET - CS Academic Level 3
- * <br>Declaration: I declare that this is my own original work and is free from Plagiarism
  * <br>This class implements the main method and tests the program.
  * <br>Section #: 303
  * <br>Course: CST8130 - Data Structures
- * @author Younes Boutaleb.
  * @version 1.0
  */
 
